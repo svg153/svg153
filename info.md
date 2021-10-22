@@ -11,3 +11,4 @@
 - <https://github.com/lowlighter/metrics>
   - <https://metrics.lecoq.io/>
 - <https://github.com/anmol098/waka-readme-stats>
+- <https://github.com/tipsy/profile-summary-for-github>
