@@ -1,0 +1,15 @@
+name: Sync pinned repositories
+description: "Synchronize the user's pinned repositories based on pinned.yml"
+author: svg153
+
+inputs:
+  token:
+    description: "GitHub token con permisos public_repo (o repo) y read:user"
+    required: true
+
+runs:
+  using: docker
+  image: Dockerfile
+  args:
+    - --token
+    - ${{ inputs.token }}

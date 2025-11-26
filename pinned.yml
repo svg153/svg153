@@ -1,0 +1,10 @@
+# Lista centralizada de repositorios pineados en el perfil de GitHub.
+# Edita este archivo y deja que el workflow `sync-pinned.yml` actualice el perfil por ti.
+user: svg153
+pinned:
+  - svg153/awesome-stars
+  - svg153-org/admin
+  - EntrevistadorInteligente/admin
+  - public-acme/infra
+  - svg153/configLinux
+  - svg153/docker-demo

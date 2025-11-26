@@ -1,0 +1,26 @@
+name: Sync pinned repositories
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - pinned.yml
+      - .github/actions/sync-pins/**
+      - .github/workflows/sync-pinned.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Sync pinned repositories
+        uses: ./.github/actions/sync-pins
+        with:
+          token: ${{ secrets.PIN_REPO_TOKEN }}
