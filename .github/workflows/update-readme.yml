@@ -1,0 +1,27 @@
+name: Update README dynamic content
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Refresh README sections
+        uses: ./.github/actions/update-readme
+        with:
+          token: ${{ github.token }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update README dynamic sections'
+          file_pattern: README.md

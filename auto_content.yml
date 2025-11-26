@@ -1,0 +1,32 @@
+# Configuración para poblar automáticamente el README.
+youtube:
+  channels:
+    - id: UC_fJ43V3wUQvxcdzC7zAICA
+      label: "@svg153"
+      url: https://www.youtube.com/@svg153
+      heading: "### 👤 Canal principal: [@svg153](https://www.youtube.com/@svg153)"
+      max_items: 3
+    - id: UCN5dCYnjDMDiAMa0kE7wmnw
+      label: "@GitHubCommunitySpain"
+      url: https://www.youtube.com/@GitHubCommunitySpain
+      heading: "### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)"
+      max_items: 3
+repos:
+  owner: svg153
+  top_new: 5
+  top_active: 5
+  active_days: 30  # días hacia atrás para considerar actividad reciente
+  ignore:
+    - svg153
+    - gitbook-example
+
+featured_projects:
+  - name: configLinux
+    description: "Mis dotfiles y scripts para dejar cualquier workstation Linux lista con las mismas herramientas de SRE/DevOps que uso a diario."
+  - name: gh-clone-org
+    description: "Extensión para GitHub CLI que clona en paralelo todos los repositorios de una organización."
+  - name: svg153-org/admin
+    description: "Configuración centralizada y políticas compartidas para toda la organización svg153-org (GitHub Apps, dependabot, etiquetas, etc.)."
+  - name: EntrevistadorInteligente/admin
+    description: '"Global GitHub settings for all repositories"; colaboro en la automatización de plantillas, tableros y protecciones de ramas de la organización.'
+

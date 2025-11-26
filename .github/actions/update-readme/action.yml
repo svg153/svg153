@@ -1,0 +1,12 @@
+name: Update README dynamic sections
+description: "Refresh README content from YouTube + GitHub data"
+author: svg153
+
+inputs:
+  token:
+    description: "GitHub token con permisos repo (lectura)"
+    required: true
+
+runs:
+  using: docker
+  image: Dockerfile
