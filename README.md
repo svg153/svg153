@@ -20,6 +20,51 @@
 
 <img src="https://raw.githubusercontent.com/svg153/svg153/devcard/devcard.svg" width="250" alt="svg153's Dev Card"/>
 
+## 🆕 Últimos videos en YouTube
+> 🎥 Canal: [@svg153](https://www.youtube.com/@svg153)
+
+<!-- YOUTUBE_SECTION_START -->
+
+- **[GitHub Universe: ¡Descubre las novedades que te volarán la cabeza! #shorts](https://www.youtube.com/shorts/JaB8Fyr2Lgk)** (30 oct 2025)
+- **[El Post-Partido de GitHub Universe #shorts](https://www.youtube.com/shorts/E3fy_mFN2lE)** (30 oct 2025)
+- **[Aprende a crear cualquier imagen de Docker con ésta app de Tetres en Node](https://www.youtube.com/shorts/5Iw4mBWZg_Y)** (25 may 2024)
+
+<!-- YOUTUBE_SECTION_END -->
+
+## 📦 Repositorios destacados del mes
+> Top 5 repos nuevos y top 5 repos con mayor actividad en los últimos 30 días.
+
+<!-- REPO_SECTION_START -->
+
+**Repositorios nuevos**
+
+| Repositorio | Descripción | Creado |
+| --- | --- | --- |
+| [escaner-rotatorio-pdf](https://github.com/svg153/escaner-rotatorio-pdf) | _Sin descripción_ | 26 nov 2025 |
+| [gh-copmit](https://github.com/svg153/gh-copmit) | _Sin descripción_ | 17 nov 2025 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 05 nov 2025 |
+| [github-stars-contrib-mcp-server](https://github.com/svg153/github-stars-contrib-mcp-server) | _Sin descripción_ | 14 oct 2025 |
+| [github-contributors](https://github.com/svg153/github-contributors) | _Sin descripción_ | 25 jul 2025 |
+
+**Repositorios más activos**
+
+| Repositorio | Descripción | Última actividad |
+| --- | --- | --- |
+| [escaner-rotatorio-pdf](https://github.com/svg153/escaner-rotatorio-pdf) | _Sin descripción_ | 26 nov 2025 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 26 nov 2025 |
+| [notes](https://github.com/svg153/notes) | _Sin descripción_ | 24 nov 2025 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 24 nov 2025 |
+
+<!-- REPO_SECTION_END -->
+
+## 🚀 Proyectos destacados
+
+- **[configLinux](https://github.com/svg153/configLinux):** mis dotfiles y scripts para dejar cualquier workstation Linux lista con las mismas herramientas de SRE/DevOps que uso a diario.
+- **[gh-clone-org](https://github.com/svg153/gh-clone-org):** extensión para GitHub CLI que clona en paralelo todos los
+- **[svg153-org/admin](https://github.com/svg153-org/admin):** configuración centralizada y políticas compartidas para toda la organización svg153-org (GitHub Apps, dependabot, etiquetas, etc.).
+- **[EntrevistadorInteligente/admin](https://github.com/EntrevistadorInteligente/admin):** _"Global GitHub settings for all repositories"_; colaboro en la automatización de plantillas, tableros y protecciones de ramas de la organización.
+repositorios de una organización.
+
 <details>
   <summary>📈 GitHub Statistics</summary>
 
