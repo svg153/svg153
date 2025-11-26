@@ -18,6 +18,9 @@ jobs:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: devcard
           commit_message: "chore: update ${filename}"
+  devcard-v3:
+    runs-on: ubuntu-latest
+    steps:
       - name: devcard-v3
         uses: dailydotdev/action-devcard@3.2.1
         with:
