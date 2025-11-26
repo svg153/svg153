@@ -14,6 +14,19 @@ API_URL = "https://api.github.com/graphql"
 MAX_PINNED = 6
 
 
+def _pin_api_available(token: str) -> bool:
+    query = """
+    query {
+      pinInput: __type(name: "PinRepositoryInput") { name }
+      pinPayload: __type(name: "PinRepositoryPayload") { name }
+      unpinInput: __type(name: "UnpinRepositoryInput") { name }
+      unpinPayload: __type(name: "UnpinRepositoryPayload") { name }
+    }
+    """
+    data = _graphql(token, query, {})
+    return all(data.get(key) is not None for key in ("pinInput", "pinPayload", "unpinInput", "unpinPayload"))
+
+
 def _load_config(path: Path) -> Tuple[str, List[str]]:
     if not path.exists():
         raise FileNotFoundError(f"Config file not found: {path}")
@@ -159,6 +172,12 @@ def main() -> None:
     token = args.token or os.environ.get("PIN_REPO_TOKEN")
     if not token:
         raise ValueError("GitHub token missing. Provide --token or set PIN_REPO_TOKEN env variable.")
+
+    if not _pin_api_available(token):
+        raise RuntimeError(
+            "GitHub removed the pinRepository/unpinRepository GraphQL mutations, so profile pins can no longer be managed via API. "
+            "Update the pinned repositories manually from the profile UI instead."
+        )
 
     config_path = Path(args.config).resolve()
     user, desired = _load_config(config_path)
