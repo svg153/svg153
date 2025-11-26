@@ -24,12 +24,13 @@
   </a>
 </p>
 
-<p align="center">
+<!-- devcard legacy version is better, shows more info about articles read -->
+<!-- <p align="center">
   <a href="https://app.daily.dev/svg153" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/svg153/svg153/devcard/devcardv3.png" width="320"
       alt="svg153's daily.dev DevCard" />
   </a>
-</p>
+</p> -->
 
 ## 🆕 Últimos videos en YouTube
 > 🎥 Canales: [@svg153](https://www.youtube.com/@svg153) · [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
