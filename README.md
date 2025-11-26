@@ -32,13 +32,19 @@
 </p>
 
 ## 🆕 Últimos videos en YouTube
-> 🎥 Canal: [@svg153](https://www.youtube.com/@svg153)
+> 🎥 Canales: [@svg153](https://www.youtube.com/@svg153) · [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
 
 <!-- YOUTUBE_SECTION_START -->
 
+### 👤 Canal principal: [@svg153](https://www.youtube.com/@svg153)
 - **[GitHub Universe: ¡Descubre las novedades que te volarán la cabeza! #shorts](https://www.youtube.com/shorts/JaB8Fyr2Lgk)** (30 oct 2025)
 - **[El Post-Partido de GitHub Universe #shorts](https://www.youtube.com/shorts/E3fy_mFN2lE)** (30 oct 2025)
 - **[Aprende a crear cualquier imagen de Docker con ésta app de Tetres en Node](https://www.youtube.com/shorts/5Iw4mBWZg_Y)** (25 may 2024)
+
+### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
+- **[¿Secretos en GitHub Actions? 🔐 ¡Guía Completa!](https://www.youtube.com/watch?v=0_NU7mkPRCw)** (25 nov 2025)
+- **[¡Visual Studio Code Tiene Esto! 🤯 Port Forwarding](https://www.youtube.com/shorts/S6bBMSLr4xI)** (18 nov 2025)
+- **[GitHub Copilot Coding Agent en Acción: Automatización de issues y generación de código](https://www.youtube.com/watch?v=j8uoPL8GXaM)** (17 nov 2025)
 
 <!-- YOUTUBE_SECTION_END -->
 
@@ -65,6 +71,7 @@
 | [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 26 nov 2025 |
 | [notes](https://github.com/svg153/notes) | _Sin descripción_ | 24 nov 2025 |
 | [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 24 nov 2025 |
+| [svg153.github.io](https://github.com/svg153/svg153.github.io) | _Sin descripción_ | 21 nov 2025 |
 
 <!-- REPO_SECTION_END -->
 
