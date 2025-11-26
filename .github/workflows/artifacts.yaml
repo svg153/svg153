@@ -18,3 +18,10 @@ jobs:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: devcard
           commit_message: "chore: update ${filename}"
+      - name: devcard-v3
+        uses: dailydotdev/action-devcard@3.2.1
+        with:
+          user_id: ${{ secrets.USER_ID }}
+          commit_branch: devcard
+          commit_filename: devcardv3.svg
+          commit_message: 'chore: update ${filename}'
