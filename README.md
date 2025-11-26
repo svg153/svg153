@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://app.daily.dev/svg153" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/svg153/svg153/devcard/devcardv3.svg" width="320"
+    <img src="https://raw.githubusercontent.com/svg153/svg153/devcard/devcardv3.png" width="320"
       alt="svg153's daily.dev DevCard" />
   </a>
 </p>
