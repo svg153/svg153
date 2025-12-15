@@ -43,9 +43,9 @@
 - **[El Post-Partido de GitHub Universe #shorts](https://www.youtube.com/shorts/E3fy_mFN2lE)** (30 oct 2025)
 
 ### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
+- **[DevOps desde cero: Tu primer flujo de trabajo con GitHub Actions](https://www.youtube.com/watch?v=HO14vZuEiII)** (12 dic 2025)
+- **[La odisea de Dash al Deploy: Usando Custom Agents para el desarrollo con Flutter](https://www.youtube.com/watch?v=K1MtiR7lWa4)** (10 dic 2025)
 - **[Secretos de GitHub Actions en entornos: ¡Descúbrelo! #shorts](https://www.youtube.com/shorts/j7DlOsi6WSg)** (04 dic 2025)
-- **[Nuevo secreto de repositorio: ¡Así de fácil! #shorts](https://www.youtube.com/shorts/bYQBN-QBfDo)** (03 dic 2025)
-- **[Crear secretos en tu organización #shorts](https://www.youtube.com/shorts/Fn5EIqg2h1E)** (02 dic 2025)
 
 <!-- YOUTUBE_SECTION_END -->
 
@@ -68,11 +68,11 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 08 dic 2025 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 15 dic 2025 |
+| [svg153.github.io](https://github.com/svg153/svg153.github.io) | _Sin descripción_ | 11 dic 2025 |
 | [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 05 dic 2025 |
 | [gh-copmit](https://github.com/svg153/gh-copmit) | _Sin descripción_ | 26 nov 2025 |
 | [escaner-rotatorio-pdf](https://github.com/svg153/escaner-rotatorio-pdf) | _Sin descripción_ | 26 nov 2025 |
-| [notes](https://github.com/svg153/notes) | _Sin descripción_ | 24 nov 2025 |
 
 <!-- REPO_SECTION_END -->
 
