@@ -68,11 +68,11 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 15 dic 2025 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 22 dic 2025 |
+| [notes](https://github.com/svg153/notes) | _Sin descripción_ | 15 dic 2025 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 15 dic 2025 |
 | [svg153.github.io](https://github.com/svg153/svg153.github.io) | _Sin descripción_ | 11 dic 2025 |
-| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 05 dic 2025 |
 | [gh-copmit](https://github.com/svg153/gh-copmit) | _Sin descripción_ | 26 nov 2025 |
-| [escaner-rotatorio-pdf](https://github.com/svg153/escaner-rotatorio-pdf) | _Sin descripción_ | 26 nov 2025 |
 
 <!-- REPO_SECTION_END -->
 
