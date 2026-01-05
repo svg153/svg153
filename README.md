@@ -38,14 +38,14 @@
 <!-- YOUTUBE_SECTION_START -->
 
 ### 👤 Canal principal: [@svg153](https://www.youtube.com/@svg153)
-- **[GitHub Universe: ¡Lo Nuevo y Explosivo! 🚀](https://www.youtube.com/watch?v=BKutYKgcU2I)** (27 nov 2025)
-- **[GitHub Universe: ¡Descubre las novedades que te volarán la cabeza! #shorts](https://www.youtube.com/shorts/JaB8Fyr2Lgk)** (30 oct 2025)
-- **[El Post-Partido de GitHub Universe #shorts](https://www.youtube.com/shorts/E3fy_mFN2lE)** (30 oct 2025)
+- **[Qué son los skills y diferencias con MCPs #github #anthropic #skills #mcps #mcpserver #copilot](https://www.youtube.com/shorts/xOUr7lDtKXk)** (24 dic 2025)
+- **[GitHub se une a los estándares de skills #shorts](https://www.youtube.com/shorts/o1Lfg7l6wz8)** (23 dic 2025)
+- **[GitHub pausó el aumento de los precios después de esto #github #news #coding](https://www.youtube.com/shorts/y_RYCORwVRo)** (22 dic 2025)
 
 ### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
+- **[GitHub Copilot Coding Agents Explained #shorts #github #copilot #agents #flutter](https://www.youtube.com/shorts/p2wG9pE1VB8)** (24 dic 2025)
+- **[GitHub Cambia Pricing Actions: ¿Polémica o Avance? #shorts](https://www.youtube.com/shorts/P5SaN9xEFS4)** (23 dic 2025)
 - **[DevOps desde cero: Tu primer flujo de trabajo con GitHub Actions](https://www.youtube.com/watch?v=HO14vZuEiII)** (12 dic 2025)
-- **[La odisea de Dash al Deploy: Usando Custom Agents para el desarrollo con Flutter](https://www.youtube.com/watch?v=K1MtiR7lWa4)** (10 dic 2025)
-- **[Secretos de GitHub Actions en entornos: ¡Descúbrelo! #shorts](https://www.youtube.com/shorts/j7DlOsi6WSg)** (04 dic 2025)
 
 <!-- YOUTUBE_SECTION_END -->
 
@@ -68,11 +68,11 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 22 dic 2025 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 05 ene 2026 |
+| [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 02 ene 2026 |
 | [notes](https://github.com/svg153/notes) | _Sin descripción_ | 15 dic 2025 |
 | [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 15 dic 2025 |
 | [svg153.github.io](https://github.com/svg153/svg153.github.io) | _Sin descripción_ | 11 dic 2025 |
-| [gh-copmit](https://github.com/svg153/gh-copmit) | _Sin descripción_ | 26 nov 2025 |
 
 <!-- REPO_SECTION_END -->
 
