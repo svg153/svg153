@@ -38,14 +38,14 @@
 <!-- YOUTUBE_SECTION_START -->
 
 ### 👤 Canal principal: [@svg153](https://www.youtube.com/@svg153)
-- **[Qué son los skills y diferencias con MCPs #github #anthropic #skills #mcps #mcpserver #copilot](https://www.youtube.com/shorts/xOUr7lDtKXk)** (24 dic 2025)
-- **[GitHub se une a los estándares de skills #shorts](https://www.youtube.com/shorts/o1Lfg7l6wz8)** (23 dic 2025)
-- **[GitHub pausó el aumento de los precios después de esto #github #news #coding](https://www.youtube.com/shorts/y_RYCORwVRo)** (22 dic 2025)
+- **[Seguro que mas gente usa runners propios #shorts](https://www.youtube.com/shorts/mVJBTabJPfE)** (17 ene 2026)
+- **[¿Pagar por hostear nuestros runners? 🤔⚙️ #shorts](https://www.youtube.com/shorts/5H94NKUqNVk)** (16 ene 2026)
+- **[GitHub Actions: ¡Cambio de Precios Revolucionario! #shorts](https://www.youtube.com/shorts/ZAwCFNKrxC8)** (15 ene 2026)
 
 ### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
+- **[GitHub España: Eventos, DevOps y Futuras Charlas #shorts](https://www.youtube.com/shorts/JB5rf2apxJU)** (14 ene 2026)
 - **[GitHub Copilot Coding Agents Explained #shorts #github #copilot #agents #flutter](https://www.youtube.com/shorts/p2wG9pE1VB8)** (24 dic 2025)
 - **[GitHub Cambia Pricing Actions: ¿Polémica o Avance? #shorts](https://www.youtube.com/shorts/P5SaN9xEFS4)** (23 dic 2025)
-- **[DevOps desde cero: Tu primer flujo de trabajo con GitHub Actions](https://www.youtube.com/watch?v=HO14vZuEiII)** (12 dic 2025)
 
 <!-- YOUTUBE_SECTION_END -->
 
@@ -68,7 +68,7 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 12 ene 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 19 ene 2026 |
 | [youtube-mcp-server-ZubeidHendricks](https://github.com/svg153/youtube-mcp-server-ZubeidHendricks) | MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics | 07 ene 2026 |
 | [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 02 ene 2026 |
 | [notes](https://github.com/svg153/notes) | _Sin descripción_ | 15 dic 2025 |
