@@ -38,14 +38,14 @@
 <!-- YOUTUBE_SECTION_START -->
 
 ### 👤 Canal principal: [@svg153](https://www.youtube.com/@svg153)
+- **[Precio de Runners: ¿Por Minuto o Tarifa Fija? #shorts](https://www.youtube.com/shorts/E17GnzcHiLg)** (20 ene 2026)
 - **[Seguro que mas gente usa runners propios #shorts](https://www.youtube.com/shorts/mVJBTabJPfE)** (17 ene 2026)
 - **[¿Pagar por hostear nuestros runners? 🤔⚙️ #shorts](https://www.youtube.com/shorts/5H94NKUqNVk)** (16 ene 2026)
-- **[GitHub Actions: ¡Cambio de Precios Revolucionario! #shorts](https://www.youtube.com/shorts/ZAwCFNKrxC8)** (15 ene 2026)
 
 ### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
+- **[Tardeo con las últimas noticias🚨 sobre GitHub](https://www.youtube.com/watch?v=_8G1FXLMQyU)** (24 ene 2026)
 - **[GitHub España: Eventos, DevOps y Futuras Charlas #shorts](https://www.youtube.com/shorts/JB5rf2apxJU)** (14 ene 2026)
 - **[GitHub Copilot Coding Agents Explained #shorts #github #copilot #agents #flutter](https://www.youtube.com/shorts/p2wG9pE1VB8)** (24 dic 2025)
-- **[GitHub Cambia Pricing Actions: ¿Polémica o Avance? #shorts](https://www.youtube.com/shorts/P5SaN9xEFS4)** (23 dic 2025)
 
 <!-- YOUTUBE_SECTION_END -->
 
@@ -68,9 +68,9 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 19 ene 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 26 ene 2026 |
+| [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 23 ene 2026 |
 | [youtube-mcp-server-ZubeidHendricks](https://github.com/svg153/youtube-mcp-server-ZubeidHendricks) | MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics | 07 ene 2026 |
-| [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 02 ene 2026 |
 | [notes](https://github.com/svg153/notes) | _Sin descripción_ | 15 dic 2025 |
 | [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 15 dic 2025 |
 
