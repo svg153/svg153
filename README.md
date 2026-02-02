@@ -43,9 +43,9 @@
 - **[¿Pagar por hostear nuestros runners? 🤔⚙️ #shorts](https://www.youtube.com/shorts/5H94NKUqNVk)** (16 ene 2026)
 
 ### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
-- **[Tardeo con las últimas noticias🚨 sobre GitHub](https://www.youtube.com/watch?v=_8G1FXLMQyU)** (24 ene 2026)
+- **[🚀¡Primeros pasos con el GitHub Copilot SDK y análisis de las peticiones!](https://www.youtube.com/watch?v=UG3jlfom6Ng)** (30 ene 2026)
+- **[🚀 ¡GitHub Copilot SDK ya está aquí! ¿El fin del Frontend? Agentes de IA y Novedades GitHub](https://www.youtube.com/watch?v=_8G1FXLMQyU)** (24 ene 2026)
 - **[GitHub España: Eventos, DevOps y Futuras Charlas #shorts](https://www.youtube.com/shorts/JB5rf2apxJU)** (14 ene 2026)
-- **[GitHub Copilot Coding Agents Explained #shorts #github #copilot #agents #flutter](https://www.youtube.com/shorts/p2wG9pE1VB8)** (24 dic 2025)
 
 <!-- YOUTUBE_SECTION_END -->
 
@@ -68,7 +68,7 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 26 ene 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 02 feb 2026 |
 | [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 23 ene 2026 |
 | [youtube-mcp-server-ZubeidHendricks](https://github.com/svg153/youtube-mcp-server-ZubeidHendricks) | MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics | 07 ene 2026 |
 | [notes](https://github.com/svg153/notes) | _Sin descripción_ | 15 dic 2025 |
