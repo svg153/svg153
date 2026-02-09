@@ -68,7 +68,7 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 02 feb 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 09 feb 2026 |
 | [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 23 ene 2026 |
 | [youtube-mcp-server-ZubeidHendricks](https://github.com/svg153/youtube-mcp-server-ZubeidHendricks) | MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics | 07 ene 2026 |
 | [notes](https://github.com/svg153/notes) | _Sin descripción_ | 15 dic 2025 |
