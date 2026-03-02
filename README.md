@@ -38,9 +38,9 @@
 <!-- YOUTUBE_SECTION_START -->
 
 ### 👤 Canal principal: [@svg153](https://www.youtube.com/@svg153)
+- **[¡Me llegó el swag de GitHub Star! Unboxing completo](https://www.youtube.com/watch?v=vHwIn772rtM)** (24 feb 2026)
 - **[Precio de Runners: ¿Por Minuto o Tarifa Fija? #shorts](https://www.youtube.com/shorts/E17GnzcHiLg)** (20 ene 2026)
 - **[Seguro que mas gente usa runners propios #shorts](https://www.youtube.com/shorts/mVJBTabJPfE)** (17 ene 2026)
-- **[¿Pagar por hostear nuestros runners? 🤔⚙️ #shorts](https://www.youtube.com/shorts/5H94NKUqNVk)** (16 ene 2026)
 
 ### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
 - **[🚀¡Primeros pasos con el GitHub Copilot SDK y análisis de las peticiones!](https://www.youtube.com/watch?v=UG3jlfom6Ng)** (30 ene 2026)
@@ -58,21 +58,21 @@
 
 | Repositorio | Descripción | Creado |
 | --- | --- | --- |
+| [github-copilot-browser](https://github.com/svg153/github-copilot-browser) | _Sin descripción_ | 25 feb 2026 |
 | [youtube-mcp-server-ZubeidHendricks](https://github.com/svg153/youtube-mcp-server-ZubeidHendricks) | MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics | 07 ene 2026 |
 | [escaner-rotatorio-pdf](https://github.com/svg153/escaner-rotatorio-pdf) | _Sin descripción_ | 26 nov 2025 |
 | [gh-copmit](https://github.com/svg153/gh-copmit) | _Sin descripción_ | 17 nov 2025 |
 | [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 05 nov 2025 |
-| [github-stars-contrib-mcp-server](https://github.com/svg153/github-stars-contrib-mcp-server) | _Sin descripción_ | 14 oct 2025 |
 
 **Repositorios más activos**
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 09 feb 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 02 mar 2026 |
+| [github-copilot-browser](https://github.com/svg153/github-copilot-browser) | _Sin descripción_ | 25 feb 2026 |
 | [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 23 ene 2026 |
 | [youtube-mcp-server-ZubeidHendricks](https://github.com/svg153/youtube-mcp-server-ZubeidHendricks) | MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics | 07 ene 2026 |
 | [notes](https://github.com/svg153/notes) | _Sin descripción_ | 15 dic 2025 |
-| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 15 dic 2025 |
 
 <!-- REPO_SECTION_END -->
 
