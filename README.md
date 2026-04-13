@@ -58,21 +58,21 @@
 
 | Repositorio | Descripción | Creado |
 | --- | --- | --- |
+| [kics-github-action](https://github.com/svg153/kics-github-action) | GitHub actions of KICS scan - Keeping Infrastructure as Code Secure | 19 mar 2026 |
 | [github-copilot-browser](https://github.com/svg153/github-copilot-browser) | _Sin descripción_ | 25 feb 2026 |
 | [youtube-mcp-server-ZubeidHendricks](https://github.com/svg153/youtube-mcp-server-ZubeidHendricks) | MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics | 07 ene 2026 |
 | [escaner-rotatorio-pdf](https://github.com/svg153/escaner-rotatorio-pdf) | _Sin descripción_ | 26 nov 2025 |
 | [gh-copmit](https://github.com/svg153/gh-copmit) | _Sin descripción_ | 17 nov 2025 |
-| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 05 nov 2025 |
 
 **Repositorios más activos**
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 02 mar 2026 |
-| [github-copilot-browser](https://github.com/svg153/github-copilot-browser) | _Sin descripción_ | 25 feb 2026 |
-| [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 23 ene 2026 |
-| [youtube-mcp-server-ZubeidHendricks](https://github.com/svg153/youtube-mcp-server-ZubeidHendricks) | MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics | 07 ene 2026 |
-| [notes](https://github.com/svg153/notes) | _Sin descripción_ | 15 dic 2025 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 13 abr 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 13 abr 2026 |
+| [web](https://github.com/svg153/web) | _Sin descripción_ | 25 mar 2026 |
+| [kics-github-action](https://github.com/svg153/kics-github-action) | GitHub actions of KICS scan - Keeping Infrastructure as Code Secure | 19 mar 2026 |
+| [safe-settings](https://github.com/svg153/safe-settings) | _Sin descripción_ | 19 mar 2026 |
 
 <!-- REPO_SECTION_END -->
 
