@@ -43,9 +43,9 @@
 - **[Seguro que mas gente usa runners propios #shorts](https://www.youtube.com/shorts/mVJBTabJPfE)** (17 ene 2026)
 
 ### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
+- **[Crea canvas con IA y colaborativo en tiempo real (Weave.js explicado)](https://www.youtube.com/watch?v=yFfXa8xuU_4)** (07 may 2026)
+- **[Call for Speakers Z: entrena, aplica y conquista el escenario](https://www.youtube.com/watch?v=v1elNmZT_Gg)** (05 may 2026)
 - **[🚀¡Primeros pasos con el GitHub Copilot SDK y análisis de las peticiones!](https://www.youtube.com/watch?v=UG3jlfom6Ng)** (30 ene 2026)
-- **[🚀 ¡GitHub Copilot SDK ya está aquí! ¿El fin del Frontend? Agentes de IA y Novedades GitHub](https://www.youtube.com/watch?v=_8G1FXLMQyU)** (24 ene 2026)
-- **[GitHub España: Eventos, DevOps y Futuras Charlas #shorts](https://www.youtube.com/shorts/JB5rf2apxJU)** (14 ene 2026)
 
 <!-- YOUTUBE_SECTION_END -->
 
@@ -58,21 +58,21 @@
 
 | Repositorio | Descripción | Creado |
 | --- | --- | --- |
+| [batalla-ias](https://github.com/svg153/batalla-ias) | _Sin descripción_ | 23 abr 2026 |
 | [kics-github-action](https://github.com/svg153/kics-github-action) | GitHub actions of KICS scan - Keeping Infrastructure as Code Secure | 19 mar 2026 |
 | [github-copilot-browser](https://github.com/svg153/github-copilot-browser) | _Sin descripción_ | 25 feb 2026 |
 | [youtube-mcp-server-ZubeidHendricks](https://github.com/svg153/youtube-mcp-server-ZubeidHendricks) | MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics | 07 ene 2026 |
 | [escaner-rotatorio-pdf](https://github.com/svg153/escaner-rotatorio-pdf) | _Sin descripción_ | 26 nov 2025 |
-| [gh-copmit](https://github.com/svg153/gh-copmit) | _Sin descripción_ | 17 nov 2025 |
 
 **Repositorios más activos**
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 13 abr 2026 |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 13 abr 2026 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 11 may 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 11 may 2026 |
+| [batalla-ias](https://github.com/svg153/batalla-ias) | _Sin descripción_ | 24 abr 2026 |
 | [web](https://github.com/svg153/web) | _Sin descripción_ | 25 mar 2026 |
 | [kics-github-action](https://github.com/svg153/kics-github-action) | GitHub actions of KICS scan - Keeping Infrastructure as Code Secure | 19 mar 2026 |
-| [safe-settings](https://github.com/svg153/safe-settings) | _Sin descripción_ | 19 mar 2026 |
 
 <!-- REPO_SECTION_END -->
 
