@@ -68,8 +68,8 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 11 may 2026 |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 11 may 2026 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 18 may 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 18 may 2026 |
 | [batalla-ias](https://github.com/svg153/batalla-ias) | _Sin descripción_ | 24 abr 2026 |
 | [web](https://github.com/svg153/web) | _Sin descripción_ | 25 mar 2026 |
 | [kics-github-action](https://github.com/svg153/kics-github-action) | GitHub actions of KICS scan - Keeping Infrastructure as Code Secure | 19 mar 2026 |
