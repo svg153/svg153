@@ -43,9 +43,9 @@
 - **[Seguro que mas gente usa runners propios #shorts](https://www.youtube.com/shorts/mVJBTabJPfE)** (17 ene 2026)
 
 ### 🇪🇸 Comunidad GitHub Spain: [@GitHubCommunitySpain](https://www.youtube.com/@GitHubCommunitySpain)
+- **[Arquitecturas Agentic First: más IA no siempre es mejor](https://www.youtube.com/watch?v=gtK6PDgFV34)** (27 may 2026)
 - **[Call for Speakers Z: entrena, aplica y conquista el escenario](https://www.youtube.com/watch?v=v1elNmZT_Gg)** (22 may 2026)
 - **[Crea canvas con IA y colaborativo en tiempo real (Weave.js explicado)](https://www.youtube.com/watch?v=yFfXa8xuU_4)** (07 may 2026)
-- **[🚀¡Primeros pasos con el GitHub Copilot SDK y análisis de las peticiones!](https://www.youtube.com/watch?v=UG3jlfom6Ng)** (30 ene 2026)
 
 <!-- YOUTUBE_SECTION_END -->
 
@@ -58,21 +58,21 @@
 
 | Repositorio | Descripción | Creado |
 | --- | --- | --- |
+| [ejemplo-transversal-starter](https://github.com/svg153/ejemplo-transversal-starter) | _Sin descripción_ | 29 may 2026 |
 | [engram-monitor-tui](https://github.com/svg153/engram-monitor-tui) | Go CLI and TUI for monitoring and administering a local Engram server | 21 may 2026 |
 | [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 21 may 2026 |
 | [batalla-ias](https://github.com/svg153/batalla-ias) | _Sin descripción_ | 23 abr 2026 |
 | [kics-github-action](https://github.com/svg153/kics-github-action) | GitHub actions of KICS scan - Keeping Infrastructure as Code Secure | 19 mar 2026 |
-| [github-copilot-browser](https://github.com/svg153/github-copilot-browser) | _Sin descripción_ | 25 feb 2026 |
 
 **Repositorios más activos**
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 25 may 2026 |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 25 may 2026 |
-| [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 21 may 2026 |
-| [engram-monitor-tui](https://github.com/svg153/engram-monitor-tui) | Go CLI and TUI for monitoring and administering a local Engram server | 21 may 2026 |
-| [batalla-ias](https://github.com/svg153/batalla-ias) | _Sin descripción_ | 24 abr 2026 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 01 jun 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 01 jun 2026 |
+| [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 01 jun 2026 |
+| [ejemplo-transversal-starter](https://github.com/svg153/ejemplo-transversal-starter) | _Sin descripción_ | 31 may 2026 |
+| [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 25 may 2026 |
 
 <!-- REPO_SECTION_END -->
 
