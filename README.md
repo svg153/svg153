@@ -58,21 +58,21 @@
 
 | Repositorio | Descripción | Creado |
 | --- | --- | --- |
+| [karajan-code](https://github.com/svg153/karajan-code) | Local multi-agent coding orchestrator with 22 pipeline roles, TDD enforcement, SonarQube integration, and automated code review. Supports Claude, Codex, Gemini, OpenCode and Aider. MCP server included. No API costs, runs on your existing subscriptions. | 14 jun 2026 |
 | [ejemplo-transversal-starter](https://github.com/svg153/ejemplo-transversal-starter) | _Sin descripción_ | 29 may 2026 |
 | [engram-monitor-tui](https://github.com/svg153/engram-monitor-tui) | Go CLI and TUI for monitoring and administering a local Engram server | 21 may 2026 |
 | [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 21 may 2026 |
 | [batalla-ias](https://github.com/svg153/batalla-ias) | _Sin descripción_ | 23 abr 2026 |
-| [kics-github-action](https://github.com/svg153/kics-github-action) | GitHub actions of KICS scan - Keeping Infrastructure as Code Secure | 19 mar 2026 |
 
 **Repositorios más activos**
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 08 jun 2026 |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 08 jun 2026 |
-| [batalla-ias](https://github.com/svg153/batalla-ias) | _Sin descripción_ | 01 jun 2026 |
-| [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 01 jun 2026 |
-| [ejemplo-transversal-starter](https://github.com/svg153/ejemplo-transversal-starter) | _Sin descripción_ | 31 may 2026 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 15 jun 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 15 jun 2026 |
+| [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 14 jun 2026 |
+| [karajan-code](https://github.com/svg153/karajan-code) | Local multi-agent coding orchestrator with 22 pipeline roles, TDD enforcement, SonarQube integration, and automated code review. Supports Claude, Codex, Gemini, OpenCode and Aider. MCP server included. No API costs, runs on your existing subscriptions. | 14 jun 2026 |
+| [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 11 jun 2026 |
 
 <!-- REPO_SECTION_END -->
 
