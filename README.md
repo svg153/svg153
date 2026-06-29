@@ -58,21 +58,21 @@
 
 | Repositorio | Descripción | Creado |
 | --- | --- | --- |
+| [web-research-capabilities](https://github.com/svg153/web-research-capabilities) | Multi-backend web research capabilities for AI Agents — inspired by Agent-Reach | 23 jun 2026 |
+| [build-2026-presentation](https://github.com/svg153/build-2026-presentation) | Presentación: Microsoft Build 2026 — GitHub Copilot App, MAI & AI Agentica. Web: https://svg153.github.io/build-2026-presentation/ | 22 jun 2026 |
 | [postflow](https://github.com/svg153/postflow) | _Sin descripción_ | 21 jun 2026 |
 | [skills](https://github.com/svg153/skills) | Centralized agent skills library with origin tracking and upstream sync | 20 jun 2026 |
 | [remotion-test](https://github.com/svg153/remotion-test) | Animated video tutorial: Create a GitHub account and push a local repository | 19 jun 2026 |
-| [karajan-code](https://github.com/svg153/karajan-code) | Local multi-agent coding orchestrator with 22 pipeline roles, TDD enforcement, SonarQube integration, and automated code review. Supports Claude, Codex, Gemini, OpenCode and Aider. MCP server included. No API costs, runs on your existing subscriptions. | 14 jun 2026 |
-| [ejemplo-transversal-starter](https://github.com/svg153/ejemplo-transversal-starter) | _Sin descripción_ | 29 may 2026 |
 
 **Repositorios más activos**
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 22 jun 2026 |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 22 jun 2026 |
-| [svg153.github.io](https://github.com/svg153/svg153.github.io) | _Sin descripción_ | 21 jun 2026 |
-| [github-contributors](https://github.com/svg153/github-contributors) | _Sin descripción_ | 21 jun 2026 |
-| [batalla-ias](https://github.com/svg153/batalla-ias) | _Sin descripción_ | 21 jun 2026 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 29 jun 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 29 jun 2026 |
+| [svg153.github.io](https://github.com/svg153/svg153.github.io) | _Sin descripción_ | 28 jun 2026 |
+| [build-2026-presentation](https://github.com/svg153/build-2026-presentation) | Presentación: Microsoft Build 2026 — GitHub Copilot App, MAI & AI Agentica. Web: https://svg153.github.io/build-2026-presentation/ | 27 jun 2026 |
+| [github-contributors](https://github.com/svg153/github-contributors) | _Sin descripción_ | 25 jun 2026 |
 
 <!-- REPO_SECTION_END -->
 
