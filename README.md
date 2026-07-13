@@ -68,11 +68,11 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 06 jul 2026 |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 06 jul 2026 |
+| [Zona-SER-Madrid](https://github.com/svg153/Zona-SER-Madrid) | Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid | 13 jul 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 13 jul 2026 |
+| [github-contributors](https://github.com/svg153/github-contributors) | _Sin descripción_ | 12 jul 2026 |
+| [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 12 jul 2026 |
 | [blog](https://github.com/svg153/blog) | https://svg153.github.io/blog | 06 jul 2026 |
-| [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 06 jul 2026 |
-| [skills](https://github.com/svg153/skills) | Centralized agent skills library with origin tracking and upstream sync | 04 jul 2026 |
 
 <!-- REPO_SECTION_END -->
 
