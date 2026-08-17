@@ -68,9 +68,9 @@
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 10 ago 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 17 ago 2026 |
+| [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 14 ago 2026 |
 | [github-contributors](https://github.com/svg153/github-contributors) | _Sin descripción_ | 02 ago 2026 |
-| [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 30 jul 2026 |
 | [engram-monitor-tui](https://github.com/svg153/engram-monitor-tui) | Go CLI and TUI for monitoring and administering a local Engram server | 30 jul 2026 |
 | [batalla-ias](https://github.com/svg153/batalla-ias) | _Sin descripción_ | 29 jul 2026 |
 
