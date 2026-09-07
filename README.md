@@ -58,21 +58,21 @@
 
 | Repositorio | Descripción | Creado |
 | --- | --- | --- |
+| [kics-github-action-1](https://github.com/svg153/kics-github-action-1) | GitHub actions of KICS scan - Keeping Infrastructure as Code Secure | 02 sep 2026 |
 | [web-research-capabilities](https://github.com/svg153/web-research-capabilities) | Multi-backend web research capabilities for AI Agents — inspired by Agent-Reach | 23 jun 2026 |
 | [build-2026-presentation](https://github.com/svg153/build-2026-presentation) | Presentación: Microsoft Build 2026 — GitHub Copilot App, MAI & AI Agentica. Web: https://svg153.github.io/build-2026-presentation/ | 22 jun 2026 |
 | [postflow](https://github.com/svg153/postflow) | _Sin descripción_ | 21 jun 2026 |
 | [skills](https://github.com/svg153/skills) | Centralized agent skills library with origin tracking and upstream sync | 20 jun 2026 |
-| [remotion-test](https://github.com/svg153/remotion-test) | Animated video tutorial: Create a GitHub account and push a local repository | 19 jun 2026 |
 
 **Repositorios más activos**
 
 | Repositorio | Descripción | Última actividad |
 | --- | --- | --- |
-| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 31 ago 2026 |
-| [reclaimit](https://github.com/svg153/reclaimit) | Portable Go CLI/TUI for reclaimable disk space analysis on developer workstations | 27 ago 2026 |
-| [skills](https://github.com/svg153/skills) | Centralized agent skills library with origin tracking and upstream sync | 26 ago 2026 |
-| [github-contributors](https://github.com/svg153/github-contributors) | _Sin descripción_ | 02 ago 2026 |
-| [engram-monitor-tui](https://github.com/svg153/engram-monitor-tui) | Go CLI and TUI for monitoring and administering a local Engram server | 30 jul 2026 |
+| [awesome-stars](https://github.com/svg153/awesome-stars) | _Sin descripción_ | 07 sep 2026 |
+| [skills](https://github.com/svg153/skills) | Centralized agent skills library with origin tracking and upstream sync | 06 sep 2026 |
+| [github-stars-contrib-mcp-server](https://github.com/svg153/github-stars-contrib-mcp-server) | _Sin descripción_ | 06 sep 2026 |
+| [configLinux](https://github.com/svg153/configLinux) | _Sin descripción_ | 05 sep 2026 |
+| [kics-github-action-1](https://github.com/svg153/kics-github-action-1) | GitHub actions of KICS scan - Keeping Infrastructure as Code Secure | 02 sep 2026 |
 
 <!-- REPO_SECTION_END -->
 
