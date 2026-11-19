@@ -2,9 +2,9 @@
 
 # Hi, I'm Sergio 👋
 
-### Developer Experience · DevOps · Platform Engineering · AI-assisted SDLC
+### Developer Platforms & AI SDLC Architect @ Accenture
 
-I build developer platforms, automation and AI-assisted workflows that make software delivery simpler, safer and easier to scale.
+I design developer platforms, automation and AI-assisted engineering workflows that make software delivery simpler, safer and easier to scale. GitHub Star and GitHub Community Spain organizer.
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Star-181717?style=flat-square&logo=github)](https://stars.github.com/profiles/svg153)
 [![Website](https://img.shields.io/badge/Website-svg153.github.io-0A66C2?style=flat-square)](https://svg153.github.io)
@@ -18,11 +18,11 @@ I build developer platforms, automation and AI-assisted workflows that make soft
 
 ## 👨‍💻 About me
 
-I'm a software and platform engineer focused on improving the way teams build, secure and operate software.
+I'm a Developer Platforms & AI SDLC Architect at Accenture, focused on modernizing the way teams build, secure and deliver software. My corporate role is Custom Software Engineering Manager.
 
 My background spans **software development, SRE, DevOps and platform engineering**, with a strong focus on **Developer Experience** and large-scale automation.
 
-Today I'm especially interested in:
+My current focus includes:
 
 - 🤖 **AI-assisted software development and AI SDLC**
 - ⚙️ **GitHub, CI/CD and developer platforms**
@@ -31,7 +31,7 @@ Today I'm especially interested in:
 - ☁️ **Cloud native, containers and infrastructure automation**
 - 📈 **Engineering productivity and Developer Experience**
 
-I care less about isolated AI demos and more about what happens when they meet real engineering organisations: **architecture, adoption, governance, security, cost and operability**.
+I care less about isolated AI demos and more about what happens when they meet real engineering organisations: **architecture, adoption, governance, security, cost and operability**. My previous experience includes Platform Engineering at Lunik; this remains part of my background, not my current employer.
 
 ## 🚀 Selected projects
 
